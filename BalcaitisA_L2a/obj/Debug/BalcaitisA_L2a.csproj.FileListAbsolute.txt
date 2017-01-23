@@ -1,0 +1,15 @@
+C:\Users\Aidas\Desktop\Lygiagretusis programavimas\BalcaitisA_L2a\BalcaitisA_L2a\bin\Debug\BalcaitisA_L2a.exe.config
+C:\Users\Aidas\Desktop\Lygiagretusis programavimas\BalcaitisA_L2a\BalcaitisA_L2a\bin\Debug\BalcaitisA_L2a.exe
+C:\Users\Aidas\Desktop\Lygiagretusis programavimas\BalcaitisA_L2a\BalcaitisA_L2a\bin\Debug\BalcaitisA_L2a.pdb
+C:\Users\Aidas\Desktop\Lygiagretusis programavimas\BalcaitisA_L2a\BalcaitisA_L2a\obj\Debug\BalcaitisA_L2a.csprojResolveAssemblyReference.cache
+C:\Users\Aidas\Desktop\Lygiagretusis programavimas\BalcaitisA_L2a\BalcaitisA_L2a\obj\Debug\BalcaitisA_L2a.exe
+C:\Users\Aidas\Desktop\Lygiagretusis programavimas\BalcaitisA_L2a\BalcaitisA_L2a\obj\Debug\BalcaitisA_L2a.pdb
+D:\STUDIJOS\5 semestras\Lygiagretusis programavimas\BalcaitisA_L2a\BalcaitisA_L2a\bin\Debug\BalcaitisA_L2a.exe.config
+D:\STUDIJOS\5 semestras\Lygiagretusis programavimas\BalcaitisA_L2a\BalcaitisA_L2a\obj\Debug\BalcaitisA_L2a.exe
+D:\STUDIJOS\5 semestras\Lygiagretusis programavimas\BalcaitisA_L2a\BalcaitisA_L2a\obj\Debug\BalcaitisA_L2a.pdb
+D:\STUDIJOS\5 semestras\Lygiagretusis programavimas\BalcaitisA_L2a cs\BalcaitisA_L2a\bin\Debug\BalcaitisA_L2a.exe.config
+D:\STUDIJOS\5 semestras\Lygiagretusis programavimas\BalcaitisA_L2a cs\BalcaitisA_L2a\obj\Debug\BalcaitisA_L2a.exe
+D:\STUDIJOS\5 semestras\Lygiagretusis programavimas\BalcaitisA_L2a cs\BalcaitisA_L2a\obj\Debug\BalcaitisA_L2a.pdb
+D:\STUDIJOS\5 semestras\Lygiagretusis programavimas\BalcaitisA_L2a cs\BalcaitisA_L2a\bin\Debug\BalcaitisA_L2a.exe
+D:\STUDIJOS\5 semestras\Lygiagretusis programavimas\BalcaitisA_L2a cs\BalcaitisA_L2a\bin\Debug\BalcaitisA_L2a.pdb
+D:\STUDIJOS\5 semestras\Lygiagretusis programavimas\BalcaitisA_L2a cs\BalcaitisA_L2a\obj\Debug\BalcaitisA_L2a.csprojResolveAssemblyReference.cache

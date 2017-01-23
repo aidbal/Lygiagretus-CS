@@ -1,0 +1,117 @@
+Producers size: 5
+
+Producer1
+   Product     Count     Price
+---------------------------------
+1)    Batonas        21      1,98
+2)      Desra        26      1,65
+3)     Kumpis        14      1,44
+4)      Suris        32      2,05
+5)   Lasiniai        55      1,69
+6)     Pienas        66      1,88
+7)     Semkos        77      1,82
+8)   Bandeles        12      1,55
+9)  Sokoladas        35      1,89
+
+Producer2
+   Product     Count     Price
+---------------------------------
+1)  Sokoladas        16      1,61
+2) Garstycios        17      1,62
+3)   Keciupas        18      1,63
+4)     Vegeta        19      1,88
+
+Producer3
+   Product     Count     Price
+---------------------------------
+1)    Batonas        14      2,15
+2)      Duona        25      2,05
+3)     Varske        24      2,07
+4)   Koldunai        23      1,99
+5)  Makaronai        22      1,78
+6)     Miltai        21      1,98
+7)   Bandeles        20      1,54
+
+Producer4
+   Product     Count     Price
+---------------------------------
+1)     Vanduo        19      1,81
+2)     Cipsai        17      1,82
+3)     Varske        16      1,83
+4)     Vegeta        38      1,84
+5)     Miltai        72      1,85
+
+Producer5
+   Product     Count     Price
+---------------------------------
+1)     Cipsai        21      1,75
+2)     Varske        22      1,45
+3)      Duona        21      1,65
+4)    Batonas        22      1,78
+5)     Vegeta        23      1,65
+
+
+---------------------------------
+
+Consumers size: 5
+
+Consumer1
+   Product     Count
+---------------------
+1)    Batonas        46
+2)     Kumpis        17
+3)   Bandeles        40
+4)     Vegeta        14
+
+Consumer2
+   Product     Count
+---------------------
+1)      Desra        26
+2)     Pienas        13
+3)   Lasiniai         8
+4)     Semkos        40
+5)      Suris        50
+
+Consumer3
+   Product     Count
+---------------------
+1)  Sokoladas        31
+2) Garstycios        44
+3)   Keciupas        60
+
+Consumer4
+   Product     Count
+---------------------
+1)      Duona        19
+2)     Varske        17
+3)   Koldunai        13
+4)  Makaronai         6
+5)     Miltai        38
+6)     Cipsai        25
+
+Consumer5
+   Product     Count
+---------------------
+1)     Vanduo        20
+2)     Cipsai        13
+3)    Batonas        11
+4)      Desra         4
+
+
+
+
+Common Array size: 10
+
+   Product     Count
+---------------------------------
+1)      Duona        27
+2)   Koldunai        10
+3)   Lasiniai        47
+4)  Makaronai        16
+5)     Miltai        55
+6)     Pienas        53
+7)     Semkos        37
+8)  Sokoladas        20
+9)     Varske        45
+10)     Vegeta        66
+

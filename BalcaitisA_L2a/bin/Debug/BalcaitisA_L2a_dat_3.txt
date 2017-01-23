@@ -1,0 +1,64 @@
+5
+Producer1	9
+Batonas		21 	1,98
+Desra		26 	1,65
+Kumpis		14 	1,44
+Suris		32 	2,05
+Lasiniai	55 	1,69
+Pienas		66	1,88
+Semkos		77	1,82
+Bandeles	12	1,55
+Sokoladas	35	1,89
+Producer2	4
+Sokoladas	16	1,61
+Garstycios	17	1,62
+Keciupas	18	1,63
+Vegeta		19	1,88
+Producer3	7
+Batonas		14	2,15
+Duona		25	2,05
+Varske		24	2,07
+Koldunai	23	1,99
+Makaronai	22	1,78
+Miltai		21	1,98
+Bandeles	20	1,54
+Producer4	5
+Vanduo		19	1,81
+Cipsai		17	1,82
+Varske		16	1,83
+Vegeta		38	1,84
+Miltai		72	1,85
+Producer5	5
+Cipsai		21	1,75
+Varske		22	1,45
+Duona		21	1,65
+Batonas		22	1,78
+Vegeta		23	1,65
+5
+Consumer1	4
+Batonas		46
+Kumpis		17
+Bandeles	40
+Vegeta		14
+Consumer2	5
+Desra		26
+Pienas		13
+Lasiniai	8
+Semkos		40
+Suris		50
+Consumer3	3
+Sokoladas	31
+Garstycios	44
+Keciupas	60
+Consumer4	6
+Duona		19
+Varske		17
+Koldunai	13
+Makaronai	6
+Miltai		38
+Cipsai		25
+Consumer5	4
+Vanduo		20
+Cipsai		13
+Batonas		11
+Desra		4
